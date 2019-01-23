@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "warning",
+    "extends": [
+        "tslint:latest",
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "quotemark": [true, "single"],
+        "no-console": true,
+        "no-submodule-imports": false,
+        "no-implicit-dependencies": false
+    },
+    "rulesDirectory": []
+}
